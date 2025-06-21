@@ -12,24 +12,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "$ref": "#/components/schemas/CourseDTOListGeneralResponse"
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/CourseDTOListGeneralResponse"
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/CourseDTOListGeneralResponse"
-                }
-              }
-            }
+            "description": "OK"
           }
         }
       }
@@ -52,24 +35,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "$ref": "#/components/schemas/CourseDTOGeneralResponse"
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/CourseDTOGeneralResponse"
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/CourseDTOGeneralResponse"
-                }
-              }
-            }
+            "description": "OK"
           }
         }
       }
@@ -100,24 +66,7 @@
         },
         "responses": {
           "200": {
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "$ref": "#/components/schemas/CourseDTOGeneralResponse"
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/CourseDTOGeneralResponse"
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/CourseDTOGeneralResponse"
-                }
-              }
-            }
+            "description": "OK"
           }
         }
       }
@@ -159,24 +108,7 @@
         },
         "responses": {
           "200": {
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "$ref": "#/components/schemas/CourseDTOGeneralResponse"
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/CourseDTOGeneralResponse"
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/CourseDTOGeneralResponse"
-                }
-              }
-            }
+            "description": "OK"
           }
         }
       }
@@ -199,24 +131,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "$ref": "#/components/schemas/StringGeneralResponse"
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/StringGeneralResponse"
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/StringGeneralResponse"
-                }
-              }
-            }
+            "description": "OK"
           }
         }
       }
@@ -228,24 +143,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "$ref": "#/components/schemas/InstructorDTOListGeneralResponse"
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/InstructorDTOListGeneralResponse"
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/InstructorDTOListGeneralResponse"
-                }
-              }
-            }
+            "description": "OK"
           }
         }
       }
@@ -268,24 +166,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "$ref": "#/components/schemas/InstructorDTOGeneralResponse"
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/InstructorDTOGeneralResponse"
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/InstructorDTOGeneralResponse"
-                }
-              }
-            }
+            "description": "OK"
           }
         }
       }
@@ -316,24 +197,7 @@
         },
         "responses": {
           "200": {
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "$ref": "#/components/schemas/InstructorDTOGeneralResponse"
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/InstructorDTOGeneralResponse"
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/InstructorDTOGeneralResponse"
-                }
-              }
-            }
+            "description": "OK"
           }
         }
       }
@@ -375,24 +239,7 @@
         },
         "responses": {
           "200": {
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "$ref": "#/components/schemas/InstructorUpdateDTOGeneralResponse"
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/InstructorUpdateDTOGeneralResponse"
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/InstructorUpdateDTOGeneralResponse"
-                }
-              }
-            }
+            "description": "OK"
           }
         }
       }
@@ -415,24 +262,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "$ref": "#/components/schemas/StringGeneralResponse"
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/StringGeneralResponse"
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/StringGeneralResponse"
-                }
-              }
-            }
+            "description": "OK"
           }
         }
       }
@@ -450,38 +280,6 @@
           "instructorId": {
             "type": "integer",
             "format": "int32"
-          }
-        },
-        "additionalProperties": false
-      },
-      "CourseDTOGeneralResponse": {
-        "type": "object",
-        "properties": {
-          "success": {
-            "type": "boolean"
-          },
-          "message": {
-            "type": "string",
-            "nullable": true
-          },
-          "data": {
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
-      "CourseDTOListGeneralResponse": {
-        "type": "object",
-        "properties": {
-          "success": {
-            "type": "boolean"
-          },
-          "message": {
-            "type": "string",
-            "nullable": true
-          },
-          "data": {
-            "nullable": true
           }
         },
         "additionalProperties": false
@@ -517,38 +315,6 @@
         },
         "additionalProperties": false
       },
-      "InstructorDTOGeneralResponse": {
-        "type": "object",
-        "properties": {
-          "success": {
-            "type": "boolean"
-          },
-          "message": {
-            "type": "string",
-            "nullable": true
-          },
-          "data": {
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
-      "InstructorDTOListGeneralResponse": {
-        "type": "object",
-        "properties": {
-          "success": {
-            "type": "boolean"
-          },
-          "message": {
-            "type": "string",
-            "nullable": true
-          },
-          "data": {
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
       "InstructorUpdateDTO": {
         "type": "object",
         "properties": {
@@ -561,38 +327,6 @@
             "items": {
               "type": "string"
             },
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
-      "InstructorUpdateDTOGeneralResponse": {
-        "type": "object",
-        "properties": {
-          "success": {
-            "type": "boolean"
-          },
-          "message": {
-            "type": "string",
-            "nullable": true
-          },
-          "data": {
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
-      "StringGeneralResponse": {
-        "type": "object",
-        "properties": {
-          "success": {
-            "type": "boolean"
-          },
-          "message": {
-            "type": "string",
-            "nullable": true
-          },
-          "data": {
             "nullable": true
           }
         },

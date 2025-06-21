@@ -170,3 +170,4 @@ D:\ITI\WebApi day2\TrainingSystemAPI\TrainingSystemAPI\obj\Debug\net8.0\refint\T
 D:\ITI\WebApi day2\TrainingSystemAPI\TrainingSystemAPI\obj\Debug\net8.0\TrainingSystemAPI.pdb
 D:\ITI\WebApi day2\TrainingSystemAPI\TrainingSystemAPI\obj\Debug\net8.0\TrainingSystemAPI.genruntimeconfig.cache
 D:\ITI\WebApi day2\TrainingSystemAPI\TrainingSystemAPI\obj\Debug\net8.0\ref\TrainingSystemAPI.dll
+D:\ITI\WebApi day2\TrainingSystemAPI\TrainingSystemAPI\obj\Debug\net8.0\TrainingSystemAPI.sourcelink.json

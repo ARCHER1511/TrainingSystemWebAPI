@@ -17,7 +17,7 @@ namespace TrainingSystemAPI.Controllers
         }
 
         [HttpGet("GetAll")]
-        public ActionResult<GeneralResponse<List<CourseDTO>>> GetAll()
+        public IActionResult GetAll()
         {
             var courses = context.Courses.Include(c=> c.Instructor).ToList();
 
@@ -35,7 +35,7 @@ namespace TrainingSystemAPI.Controllers
             });
         }
         [HttpGet("GetById/{id}")]
-        public ActionResult<GeneralResponse<CourseDTO>> GetById(int id)
+        public IActionResult GetById(int id)
         {
             var course = context.Courses
                 .Include(c => c.Instructor)
@@ -55,7 +55,7 @@ namespace TrainingSystemAPI.Controllers
             });
         }
         [HttpPost("Add")]
-        public ActionResult<GeneralResponse<CourseDTO>> Add([FromBody] CourseAddDTO courseDTO)
+        public IActionResult Add([FromBody] CourseAddDTO courseDTO)
         {
             if (!ModelState.IsValid)
             {
@@ -94,7 +94,7 @@ namespace TrainingSystemAPI.Controllers
             });
         }
         [HttpPut("Update/{id}")]
-        public ActionResult<GeneralResponse<CourseDTO>> Update(int id, [FromBody] CourseUpdateDTO courseDTO)
+        public IActionResult Update(int id, [FromBody] CourseUpdateDTO courseDTO)
         {
             if (!ModelState.IsValid)
             {
@@ -137,7 +137,7 @@ namespace TrainingSystemAPI.Controllers
             });
         }
         [HttpDelete("Delete/{id:int}")]
-        public ActionResult<GeneralResponse<string>> Delete(int id)
+        public IActionResult Delete(int id)
         {
             var course = context.Courses.FirstOrDefault(c => c.Id == id);
             if (course == null)
