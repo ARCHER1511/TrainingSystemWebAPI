@@ -1,0 +1,260 @@
+[
+  {
+    "ContainingType": "TrainingSystemAPI.Controllers.CourseController",
+    "Method": "Add",
+    "RelativePath": "api/Course/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "courseDTO",
+        "Type": "TrainingSystemAPI.DTO.CourseAddDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TrainingSystemAPI.DTO.GeneralResponse\u00601[[TrainingSystemAPI.DTO.CourseDTO, TrainingSystemAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TrainingSystemAPI.Controllers.CourseController",
+    "Method": "Delete",
+    "RelativePath": "api/Course/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TrainingSystemAPI.DTO.GeneralResponse\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TrainingSystemAPI.Controllers.CourseController",
+    "Method": "GetAll",
+    "RelativePath": "api/Course/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "TrainingSystemAPI.DTO.GeneralResponse\u00601[[System.Collections.Generic.List\u00601[[TrainingSystemAPI.DTO.CourseDTO, TrainingSystemAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TrainingSystemAPI.Controllers.CourseController",
+    "Method": "GetById",
+    "RelativePath": "api/Course/GetById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TrainingSystemAPI.DTO.GeneralResponse\u00601[[TrainingSystemAPI.DTO.CourseDTO, TrainingSystemAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TrainingSystemAPI.Controllers.CourseController",
+    "Method": "Update",
+    "RelativePath": "api/Course/Update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "courseDTO",
+        "Type": "TrainingSystemAPI.DTO.CourseUpdateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TrainingSystemAPI.DTO.GeneralResponse\u00601[[TrainingSystemAPI.DTO.CourseDTO, TrainingSystemAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TrainingSystemAPI.Controllers.InstructorController",
+    "Method": "Add",
+    "RelativePath": "api/Instructor/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "instructorDTO",
+        "Type": "TrainingSystemAPI.DTO.InstructorAddDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TrainingSystemAPI.DTO.GeneralResponse\u00601[[TrainingSystemAPI.DTO.InstructorDTO, TrainingSystemAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TrainingSystemAPI.Controllers.InstructorController",
+    "Method": "Delete",
+    "RelativePath": "api/Instructor/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TrainingSystemAPI.DTO.GeneralResponse\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TrainingSystemAPI.Controllers.InstructorController",
+    "Method": "GetAll",
+    "RelativePath": "api/Instructor/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "TrainingSystemAPI.DTO.GeneralResponse\u00601[[System.Collections.Generic.List\u00601[[TrainingSystemAPI.DTO.InstructorDTO, TrainingSystemAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TrainingSystemAPI.Controllers.InstructorController",
+    "Method": "GetById",
+    "RelativePath": "api/Instructor/GetById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TrainingSystemAPI.DTO.GeneralResponse\u00601[[TrainingSystemAPI.DTO.InstructorDTO, TrainingSystemAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TrainingSystemAPI.Controllers.InstructorController",
+    "Method": "Update",
+    "RelativePath": "api/Instructor/Update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "instructorDTO",
+        "Type": "TrainingSystemAPI.DTO.InstructorUpdateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TrainingSystemAPI.DTO.GeneralResponse\u00601[[TrainingSystemAPI.DTO.InstructorUpdateDTO, TrainingSystemAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
