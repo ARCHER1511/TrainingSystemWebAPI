@@ -171,3 +171,5 @@ D:\ITI\WebApi day2\TrainingSystemAPI\TrainingSystemAPI\obj\Debug\net8.0\Training
 D:\ITI\WebApi day2\TrainingSystemAPI\TrainingSystemAPI\obj\Debug\net8.0\TrainingSystemAPI.genruntimeconfig.cache
 D:\ITI\WebApi day2\TrainingSystemAPI\TrainingSystemAPI\obj\Debug\net8.0\ref\TrainingSystemAPI.dll
 D:\ITI\WebApi day2\TrainingSystemAPI\TrainingSystemAPI\obj\Debug\net8.0\TrainingSystemAPI.sourcelink.json
+D:\ITI\WebApi day2\TrainingSystemAPI\TrainingSystemAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ITI\WebApi day2\TrainingSystemAPI\TrainingSystemAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll

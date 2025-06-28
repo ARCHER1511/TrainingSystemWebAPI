@@ -3,20 +3,60 @@
   "WorkspaceRootPath": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|d:\\iti\\webapi day2\\trainingsystemapi\\trainingsystemapi\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|solutionrelative:trainingsystemapi\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|d:\\iti\\webapi day2\\trainingsystemapi\\trainingsystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|solutionrelative:trainingsystemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|d:\\iti\\webapi day2\\trainingsystemapi\\trainingsystemapi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|solutionrelative:trainingsystemapi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|d:\\iti\\webapi day2\\trainingsystemapi\\trainingsystemapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|solutionrelative:trainingsystemapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|d:\\iti\\webapi day2\\trainingsystemapi\\trainingsystemapi\\data\\trainingsystemapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|solutionrelative:trainingsystemapi\\data\\trainingsystemapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|d:\\iti\\webapi day2\\trainingsystemapi\\trainingsystemapi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|solutionrelative:trainingsystemapi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|d:\\iti\\webapi day2\\trainingsystemapi\\trainingsystemapi\\dto\\loginresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|solutionrelative:trainingsystemapi\\dto\\loginresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|d:\\iti\\webapi day2\\trainingsystemapi\\trainingsystemapi\\dto\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|solutionrelative:trainingsystemapi\\dto\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|d:\\iti\\webapi day2\\trainingsystemapi\\trainingsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|solutionrelative:trainingsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|d:\\iti\\webapi day2\\trainingsystemapi\\trainingsystemapi\\dto\\generalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|solutionrelative:trainingsystemapi\\dto\\generalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|d:\\iti\\webapi day2\\trainingsystemapi\\trainingsystemapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|solutionrelative:trainingsystemapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|d:\\iti\\webapi day2\\trainingsystemapi\\trainingsystemapi\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|solutionrelative:trainingsystemapi\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|d:\\iti\\webapi day2\\trainingsystemapi\\trainingsystemapi\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|solutionrelative:trainingsystemapi\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|d:\\iti\\webapi day2\\trainingsystemapi\\trainingsystemapi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|solutionrelative:trainingsystemapi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|d:\\iti\\webapi day2\\trainingsystemapi\\trainingsystemapi\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|solutionrelative:trainingsystemapi\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|d:\\iti\\webapi day2\\trainingsystemapi\\trainingsystemapi\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|solutionrelative:trainingsystemapi\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|d:\\iti\\webapi day2\\trainingsystemapi\\trainingsystemapi\\dto\\courseupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DE9CFC-B2DE-48E8-A11F-3B91BD7F33AE}|TrainingSystemAPI\\TrainingSystemAPI.csproj|solutionrelative:trainingsystemapi\\dto\\courseupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,54 +82,185 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\Program.cs",
-              "RelativeDocumentMoniker": "TrainingSystemAPI\\Program.cs",
-              "ToolTip": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\Program.cs",
-              "RelativeToolTip": "TrainingSystemAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T19:53:41.132Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TrainingSystemAPI\\appsettings.json",
+              "ToolTip": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\appsettings.json",
+              "RelativeToolTip": "TrainingSystemAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-28T01:20:57.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "InstructorController.cs",
-              "DocumentMoniker": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\Controllers\\InstructorController.cs",
-              "RelativeDocumentMoniker": "TrainingSystemAPI\\Controllers\\InstructorController.cs",
-              "ToolTip": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\Controllers\\InstructorController.cs",
-              "RelativeToolTip": "TrainingSystemAPI\\Controllers\\InstructorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\DTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "TrainingSystemAPI\\DTO\\RegisterDTO.cs",
+              "ToolTip": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\DTO\\RegisterDTO.cs",
+              "RelativeToolTip": "TrainingSystemAPI\\DTO\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T19:51:28.783Z",
+              "WhenOpened": "2025-06-28T00:38:08.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "TrainingSystemAPI\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "TrainingSystemAPI\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAA/wEYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T00:29:21.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TrainingSystemAPI\\Program.cs",
+              "ToolTip": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\Program.cs",
+              "RelativeToolTip": "TrainingSystemAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T06:03:48.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrainingSystemApiContext.cs",
+              "DocumentMoniker": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\Data\\TrainingSystemApiContext.cs",
+              "RelativeDocumentMoniker": "TrainingSystemAPI\\Data\\TrainingSystemApiContext.cs",
+              "ToolTip": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\Data\\TrainingSystemApiContext.cs",
+              "RelativeToolTip": "TrainingSystemAPI\\Data\\TrainingSystemApiContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T00:08:44.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "TrainingSystemAPI\\DTO\\LoginDTO.cs",
+              "ToolTip": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "TrainingSystemAPI\\DTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T00:39:58.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginResultDTO.cs",
+              "DocumentMoniker": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\DTO\\LoginResultDTO.cs",
+              "RelativeDocumentMoniker": "TrainingSystemAPI\\DTO\\LoginResultDTO.cs",
+              "ToolTip": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\DTO\\LoginResultDTO.cs",
+              "RelativeToolTip": "TrainingSystemAPI\\DTO\\LoginResultDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:04:49.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "TrainingSystemAPI\\Models\\AppUser.cs",
+              "ToolTip": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\Models\\AppUser.cs",
+              "RelativeToolTip": "TrainingSystemAPI\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T00:15:39.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "TrainingSystemAPI\\Models\\Course.cs",
+              "ToolTip": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\Models\\Course.cs",
+              "RelativeToolTip": "TrainingSystemAPI\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:45:05.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseDTO.cs",
+              "DocumentMoniker": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\DTO\\CourseDTO.cs",
+              "RelativeDocumentMoniker": "TrainingSystemAPI\\DTO\\CourseDTO.cs",
+              "ToolTip": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\DTO\\CourseDTO.cs",
+              "RelativeToolTip": "TrainingSystemAPI\\DTO\\CourseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T23:47:44.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "CourseController.cs",
               "DocumentMoniker": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\Controllers\\CourseController.cs",
               "RelativeDocumentMoniker": "TrainingSystemAPI\\Controllers\\CourseController.cs",
               "ToolTip": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\Controllers\\CourseController.cs",
               "RelativeToolTip": "TrainingSystemAPI\\Controllers\\CourseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-21T19:51:27.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GeneralResponse.cs",
-              "DocumentMoniker": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\DTO\\GeneralResponse.cs",
-              "RelativeDocumentMoniker": "TrainingSystemAPI\\DTO\\GeneralResponse.cs",
-              "ToolTip": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\DTO\\GeneralResponse.cs",
-              "RelativeToolTip": "TrainingSystemAPI\\DTO\\GeneralResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "InstructorController.cs",
+              "DocumentMoniker": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\Controllers\\InstructorController.cs",
+              "RelativeDocumentMoniker": "TrainingSystemAPI\\Controllers\\InstructorController.cs",
+              "ToolTip": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\Controllers\\InstructorController.cs",
+              "RelativeToolTip": "TrainingSystemAPI\\Controllers\\InstructorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T19:41:31.293Z"
+              "WhenOpened": "2025-06-25T07:46:27.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "TrainingSystemAPI\\Models\\Instructor.cs",
+              "ToolTip": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\Models\\Instructor.cs",
+              "RelativeToolTip": "TrainingSystemAPI\\Models\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:46:37.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CourseUpdateDTO.cs",
+              "DocumentMoniker": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\DTO\\CourseUpdateDTO.cs",
+              "RelativeDocumentMoniker": "TrainingSystemAPI\\DTO\\CourseUpdateDTO.cs",
+              "ToolTip": "D:\\ITI\\WebApi day2\\TrainingSystemAPI\\TrainingSystemAPI\\DTO\\CourseUpdateDTO.cs",
+              "RelativeToolTip": "TrainingSystemAPI\\DTO\\CourseUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T23:43:43.825Z",
+              "EditorCaption": ""
             }
           ]
         }

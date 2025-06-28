@@ -25,7 +25,8 @@ namespace TrainingSystemAPI.Controllers
             {
                 Id = course.Id,
                 CourseName = course.Title,
-                InstructorName = course.Instructor?.Name ?? "No Instructor"
+                InstructorName = course.Instructor?.Name ?? "No Instructor",
+                InstructorId = course.Instructor?.Id ?? 0
             }).ToList();
             return Ok(new GeneralResponse<List<CourseDTO>> 
             {
